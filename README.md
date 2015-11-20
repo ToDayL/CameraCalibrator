@@ -5,9 +5,9 @@ Basic on OpenCV 3.0
 
 This is my first try on GitHub.
 
-This is a simple class to calibrate camera and undisort the image.
+This is a simple class to calibrate camera with chessboard and undisort the image.
 
-You can calibrate the camera by opening the camera or taking a series of pictures.
+You can calibrate the camera by opening your camera or using a series of pictures.
 
 You can get the camera Matrix and the distCoeffs of 5 parameters.
 
